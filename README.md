@@ -1,4 +1,4 @@
-# PPNewModLoader
+# Phoenix Point Mod Loader Template Project
 This is demo project for creating mod loaders for Phoenix Point.
 
 Mod loaders are special kind of mods that allow discovery & loading of non-standard mods.
@@ -16,3 +16,5 @@ When mod has to be activated/deactivated, the mod loader will be asked to do so.
 ## Using This Project
 This project is a quick demo of how to respond to game's requests to discover/load/unload mods.
 If this project is used to create custom mod loader, assemlby name has to be changed to unique name (from Project Properties).
+
+To build the project you'll need ModSDK provided found in Phoenix Point Steam Workshop Tool or in Steam version of the game.
