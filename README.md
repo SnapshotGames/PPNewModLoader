@@ -1,5 +1,5 @@
 # PPNewModLoader
-This is demo project for creating mod loaders.
+This is demo project for creating mod loaders for Phoenix Point.
 
 Mod loaders are special kind of mods that allow discovery & loading of non-standard mods.
 Mod loaders are useful for porting existing modding frameworks with their own mod base, or creating new ones.
