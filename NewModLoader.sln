@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewModLoader", "NewModLoader\NewModLoader.csproj", "{6003274E-4C29-46CA-B4A9-0543BDED4264}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C01A4C60-06E7-4676-9A52-EE133C6C7642}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6003274E-4C29-46CA-B4A9-0543BDED4264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6003274E-4C29-46CA-B4A9-0543BDED4264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6003274E-4C29-46CA-B4A9-0543BDED4264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6003274E-4C29-46CA-B4A9-0543BDED4264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0668DBBF-2933-4906-ADEE-DF2D1C3F39CF}
+	EndGlobalSection
+EndGlobal
